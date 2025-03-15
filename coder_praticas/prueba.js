@@ -1,3 +1,7 @@
+/* =====================================
+=               Section                =
+===================================== 
+
 let prueba = 2;
 
 if (prueba > 0) {
@@ -10,3 +14,8 @@ if (prueba > 0) {
     console.log(prueba);
   }
 }
+
+========= End of Section ========= */
+
+console.log(5 === "5");
+prompt();
