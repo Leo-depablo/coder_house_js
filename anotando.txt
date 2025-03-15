@@ -1,0 +1,12 @@
+let = para datos que pueden cambiar;
+const = no cambia;
+
+for (let prueba = 0; prueba <= 5; prueba++){
+        console.log(prueba);
+    }
+
+if(prueba>0){ 
+    while(prueba<100){
+        console.log(prueba);
+        prueba++;
+    }
